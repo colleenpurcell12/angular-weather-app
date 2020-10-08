@@ -30,7 +30,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": ["src/fontawesome/all.js"]
           },
           "configurations": {
             "production": {
